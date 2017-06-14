@@ -1,24 +1,27 @@
 Solarized Light for Xcode
 ========================
 
-![Forced Update](https://github.com/nelsyeung/Solarized-Light-for-Xcode/blob/master/solarized-light.png?raw=true "Solarized Light Screenshot") 
+![Solarized Light Screenshot](https://github.com/nelsyeung/Solarized-Light-for-Xcode/blob/master/solarized-light.png?raw=true "Solarized Light Screenshot") 
 
 ## Background
-This theme works with Xcode 5, 6, and 7.
+This theme works with Xcode 8 and 9.
+
+If you would like this theme to work for older versions of Xcode, simply rename the `.xccolortheme`
+file to be `.dvtcolortheme` instead.
 
 ## Installation
-### Automatic Installation
+### Alcatraz package manager
 Available in the [Alcatraz](http://www.alcatraz.io) package manager as *Solarized Light for Xcode*.
  
-You can also run:
+### Automatic (via script)
 ```
 ./install.sh
 ```
 
-which will install the file in Xcode themes directory (mentioned below)
+which will install the file in Xcode `FontAndColorThemes` directory.
 
 ### Manual Installation
-Copy the .dvtcolortheme file into the following directory: 
+Copy the .xccolortheme file into the following directory: 
 
 ```
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
