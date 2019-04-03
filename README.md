@@ -10,9 +10,6 @@ If you would like this theme to work for older versions of Xcode, simply rename 
 file to be `.dvtcolortheme` instead.
 
 ## Installation
-### Alcatraz package manager
-Available in the [Alcatraz](http://www.alcatraz.io) package manager as *Solarized Light for Xcode*.
- 
 ### Automatic (via script)
 ```
 ./install.sh
