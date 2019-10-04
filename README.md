@@ -4,7 +4,7 @@ Solarized Light for Xcode
 ![Solarized Light Screenshot](https://github.com/nelsyeung/Solarized-Light-for-Xcode/blob/master/solarized-light.png?raw=true "Solarized Light Screenshot") 
 
 ## Background
-This theme works with Xcode 8, 9 and 10.
+This theme works with Xcode 8, 9, 10 and 11.
 
 If you would like this theme to work for older versions of Xcode, simply rename the `.xccolortheme`
 file to be `.dvtcolortheme` instead.
